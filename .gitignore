@@ -1,0 +1,40 @@
+# PDFs - NEVER upload
+*.pdf
+
+# Images - keep local
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+
+# Large media
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.iso
+
+# ML model files
+*.pt
+*.pth
+*.onnx
+*.bin
+*.h5
+*.pkl
+*.ckpt
+*.safetensors
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
